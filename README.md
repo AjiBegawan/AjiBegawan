@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, Nextjs, React**
 
-- 👨‍💻 All of my projects are available at [indiarto-aji-begawan.vercel.app/](indiarto-aji-begawan.vercel.app/)
+- 👨‍💻 All of my projects are available at [indiarto-aji-begawan.vercel.app](indiarto-aji-begawan.vercel.app)
 
 - 💬 Ask me about **Web Development, Machine Learning, Data Science**
 
