@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://indiarto-aji-begawan.vercel.app/](https://indiarto-aji-begawan.vercel.app/)
 
-- 💬 Ask me about **React, Web Development, Machine Learning, Data Science**
+- 💬 Ask me about **Web Development, Machine Learning, Data Science**
 
 - 📫 How to reach me **indiartoaji13@gmail.com**
 
