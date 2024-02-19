@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web Development, Machine Learning, Data Science**
 
-- 📫 How to reach me **indiartoaji13@gmail.com**
+- 📫 How to reach me **indiartoaji13@gmail.com** or **www.linkedin.com/in/indiartoajib**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
